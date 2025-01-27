@@ -30,14 +30,12 @@ The following firmware modules are supported and must be placed under `user/sys_
 Tested firmware modules are from **11.00**.
 
 - **libSceNgs2.sprx**
-- **libSceFiber.sprx**
 - **libSceUlt.sprx**
 - **libSceJson.sprx**
 - **libSceJson2.sprx**
 - **libSceLibcInternal.sprx**
 - **libSceDiscMap.sprx**
 - **libSceRtc.sprx**
-- **libSceJpegEnc.sprx**
 - **libSceCesCs.sprx**
 - **libSceFont.sprx**
 - **libSceFontFt.sprx**
